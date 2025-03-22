@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\helpers\\logouttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:helpers\\logouttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\views\\admin\\restrictedindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:views\\admin\\restrictedindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\helpers\\logouttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:helpers\\logouttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -50,30 +50,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "RestrictedIndex.cshtml",
               "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Admin\\RestrictedIndex.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\RestrictedIndex.cshtml",
-              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Admin\\RestrictedIndex.cshtml",
-              "RelativeToolTip": "Views\\Admin\\RestrictedIndex.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Admin\\RestrictedIndex.cshtml*",
+              "RelativeToolTip": "Views\\Admin\\RestrictedIndex.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-03-22T10:42:13.803Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "AccountController.cs",
               "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAADwv28AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAuwGUAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-22T09:53:58.185Z",
               "EditorCaption": ""
@@ -141,20 +141,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "LogOutTime.cs",
               "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Helpers\\LogOutTime.cs",
               "RelativeDocumentMoniker": "Helpers\\LogOutTime.cs",
-              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Helpers\\LogOutTime.cs",
-              "RelativeToolTip": "Helpers\\LogOutTime.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Helpers\\LogOutTime.cs*",
+              "RelativeToolTip": "Helpers\\LogOutTime.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-21T04:32:19.417Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Admin\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",

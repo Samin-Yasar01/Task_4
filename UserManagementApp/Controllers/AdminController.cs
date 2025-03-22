@@ -83,10 +83,6 @@ namespace UserManagementApp.Controllers
         public async Task<IActionResult> Delete(string[] userIds)
         {
             var currentUser = await userManager.GetUserAsync(User);
-           // if (currentUser != null && !currentUser.IsActive)
-            //{
-               // return RedirectToAction("RestrictedIndex");
-            //}
 
             foreach (var userId in userIds)
             {
@@ -94,6 +90,12 @@ namespace UserManagementApp.Controllers
                 if (user != null)
                 {
                     await userManager.DeleteAsync(user);
+
+                    if (user.Id == currentUser.Id)
+                    {
+                        await signInManager.SignOutAsync();
+                        return RedirectToAction("Login", "Account");
+                    }
                 }
             }
             return RedirectToAction("Index");
