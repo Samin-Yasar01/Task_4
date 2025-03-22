@@ -1,0 +1,30 @@
+﻿/* account.css */
+.account-container {
+    display: flex;
+    height: 100vh;
+}
+
+.left-half {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2rem;
+    background-color: #f8f9fa; /* Light grey background */
+}
+
+.right-half {
+    flex: 1;
+    background: url('/images/auth-background.jpg') no-repeat center center;
+    background-size: cover;
+}
+
+.account-box {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    max-width: 400px;
+    width: 100%;
+    opacity: 0.9;
+}

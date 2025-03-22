@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\migrations\\20250321164955_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:migrations\\20250321164955_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\helpers\\logouttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:helpers\\logouttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:views\\shared\\_accountlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:wwwroot\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|d:\\itranstion\\tasks\\task_4\\usermanagementapp\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DD15F85C-4412-48DF-AD89-EEB6B42DA1EF}|UserManagementApp.csproj|solutionrelative:views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250321164955_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Migrations\\20250321164955_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20250321164955_InitialCreate.cs",
+              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Migrations\\20250321164955_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20250321164955_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T16:49:55.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T16:37:54.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T04:41:41.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswCYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T04:41:32.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_AccountLayout.cshtml",
+              "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_AccountLayout.cshtml",
+              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Shared\\_AccountLayout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_AccountLayout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T04:40:59.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "account.css",
+              "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\wwwroot\\css\\account.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\account.css",
+              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\wwwroot\\css\\account.css",
+              "RelativeToolTip": "wwwroot\\css\\account.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-21T04:40:50.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogOutTime.cs",
+              "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Helpers\\LogOutTime.cs",
+              "RelativeDocumentMoniker": "Helpers\\LogOutTime.cs",
+              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Helpers\\LogOutTime.cs",
+              "RelativeToolTip": "Helpers\\LogOutTime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T04:32:19.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Admin\\Index.cshtml",
+              "ToolTip": "D:\\Itranstion\\Tasks\\Task_4\\UserManagementApp\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-21T04:26:47.508Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
