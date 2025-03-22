@@ -1,5 +1,5 @@
-﻿using System;
-using Humanizer;
+﻿using Humanizer;
+using System;
 
 namespace UserManagementApp.Helpers
 {
@@ -7,7 +7,9 @@ namespace UserManagementApp.Helpers
     {
         public static string GetTime(DateTime dateTime)
         {
-            return TimeZoneInfo.ConvertTimeFromUtc(dateTime, TimeZoneInfo.Local).Humanize();
+            // Ensure the input DateTime is treated as UTC
+            var utcTime = DateTime.SpecifyKind(dateTime, DateTimeKind.Utc);
+            return utcTime.Humanize(); // Humanizer handles the relative time formatting
         }
     }
 }

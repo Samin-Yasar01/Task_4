@@ -42,7 +42,6 @@ namespace UserManagementApp.Controllers
                 var result = await signInManager.PasswordSignInAsync(model.Email, model.Password, false, false);
                 if (result.Succeeded)
                 {
-                    // Update last login time in UTC
                     user.LastLoginTime = DateTime.UtcNow;
                     await userManager.UpdateAsync(user);
 
@@ -72,7 +71,7 @@ namespace UserManagementApp.Controllers
                     FullName = model.Name,
                     Email = model.Email,
                     UserName = model.Email,
-                    IsActive = true // Ensure new users are active by default
+                    IsActive = true
                 };
 
                 var result = await userManager.CreateAsync(user, model.Password);
@@ -94,10 +93,10 @@ namespace UserManagementApp.Controllers
             return View(model);
         }
 
-        public async Task<IActionResult> Logout()  // Moved inside the class
+        public async Task<IActionResult> Logout()
         {
             await signInManager.SignOutAsync();
             return RedirectToAction("Index", "Admin");
         }
-    }  // Correctly closing the class
+    }
 }

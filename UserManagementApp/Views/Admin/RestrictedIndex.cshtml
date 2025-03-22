@@ -1,0 +1,16 @@
+﻿@model IEnumerable<UserManagementApp.Models.Users>
+@using UserManagementApp.Helpers <!-- Add the namespace for the LogOutTime class -->
+@{
+    ViewData["Title"] = "Restricted Index";
+}
+
+<!-- Warning Alert -->
+<div class="alert alert-danger" role="alert">
+    
+    <h1>
+        <strong>Warning!</strong>
+        <p1>Your account is blocked. You cannot view the list of users and cannot perform any actions.</p1>
+    </h1>
+</div>
+
+

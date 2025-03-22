@@ -498,3 +498,4 @@ D:\Itranstion\Tasks\Task_4\UserManagementApp\obj\Release\net8.0\win-x64\refint\U
 D:\Itranstion\Tasks\Task_4\UserManagementApp\obj\Release\net8.0\win-x64\UserManagementApp.pdb
 D:\Itranstion\Tasks\Task_4\UserManagementApp\obj\Release\net8.0\win-x64\UserManagementApp.genruntimeconfig.cache
 D:\Itranstion\Tasks\Task_4\UserManagementApp\obj\Release\net8.0\win-x64\ref\UserManagementApp.dll
+D:\Itranstion\Tasks\Task_4\UserManagementApp\obj\Release\net8.0\win-x64\UserManagementApp.sourcelink.json

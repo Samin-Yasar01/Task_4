@@ -192,3 +192,4 @@ D:\Itranstion\Tasks\Task_4\UserManagementApp\bin\Debug\net8.0\zh-CN\Humanizer.re
 D:\Itranstion\Tasks\Task_4\UserManagementApp\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
 D:\Itranstion\Tasks\Task_4\UserManagementApp\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
 D:\Itranstion\Tasks\Task_4\UserManagementApp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Itranstion\Tasks\Task_4\UserManagementApp\obj\Debug\net8.0\UserManagementApp.sourcelink.json
